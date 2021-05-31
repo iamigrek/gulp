@@ -1,0 +1,16 @@
+// COLORS
+$color-white: #fff;
+$color-black: #000;
+
+//FONTS
+$font-main: "Courier New", Courier, monospace;
+
+%font-def {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  font-family: $font-main;
+}
+
+//RETREATS
+$grid-gap: 20px;
